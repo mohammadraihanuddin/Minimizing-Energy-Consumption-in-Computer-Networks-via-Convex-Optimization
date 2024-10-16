@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Minimizing Energy Consumption in Computer Networks via Convex Optimization</title>
-</head>
 <body>
 
 <h1>Minimizing Energy Consumption in Computer Networks via Convex Optimization</h1>
@@ -107,10 +104,10 @@ savepath;
 
     <p>Execute the optimization script:</p>
 
-    <pre><code>run('energy_optimization.m');
+    <pre><code>run('main_project_1.mlx');
 </code></pre>
 
-    <p><em>(Replace <code>energy_optimization.m</code> with the actual script name.)</em></p>
+    <p><em>(Replace <code>main_project_1.mlx</code> </em></p>
     </li>
 
     <li><strong>View Results</strong>
