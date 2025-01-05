@@ -223,11 +223,7 @@ savepath;
     <li><strong>Email:</strong> <a href="mailto:mu0016@uah.edu">mu0016@uah.edu</a></li>
 </ul>
 
-<hr>
 
-<p><em>Please replace <code>yourusername</code>, <code>your.email@example.com</code>, and file paths with your actual information.</em></p>
-
-<hr>
 
 <h3>Additional Notes</h3>
 
